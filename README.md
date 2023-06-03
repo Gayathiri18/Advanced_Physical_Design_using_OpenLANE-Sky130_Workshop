@@ -9,3 +9,16 @@ Aim of this workshop:
 * Have a hands-on in the Physical Design domain.
 * Generate a full GDSII from a RTL netlist.
 * Explore and contribute to open source EDA world.
+
+# Agenda of the workshop
+
+Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK:
+* [How to talk to computers](#how-to-talk-to-computers)
+* SoC design and OpenLANE
+* Starting RISC-V SoC Reference design
+* Get familiar to open-source EDA tools
+
+# How to talk to computers
+
+All the FPGA Boards contains chip inside which plays a major role in funcitoning of the board.
+<img src="images_fpga/synthesized_design.png">

@@ -18,6 +18,8 @@ Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK:
 * Starting RISC-V SoC Reference design
 * Get familiar to open-source EDA tools
 
+Day1:
+
 # How to talk to computers
 
 All the FPGA Boards contains chip inside which plays a major role in funcitoning of the board.

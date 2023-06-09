@@ -22,5 +22,8 @@ Day1:
 
 # How to talk to computers
 
-All the FPGA Boards contains chip inside which plays a major role in funcitoning of the board.
-<img src="images_fpga/synthesized_design.png">
+All FPGA Boards contains chip inside which plays a major role in funcitoning of the board. The functionalitites of the the SoC/Processor is shown below.
+<img src="images/1.png">
+
+Inside the processor core, the macros, foundry IP's and GPIO pins are arranged in a structured manner as shown in the below diagram.
+<img src="images/2.png">
